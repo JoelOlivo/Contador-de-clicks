@@ -1,0 +1,33 @@
+button {
+    width: 250px;
+    height: 80px;
+    font-family: 'Lucida Sans Regular', 'Lucida Sans', 'Lucida Grande', sans-serif;
+    font-weight: bold;
+    color: white;
+    border: 2px solid white;
+    border-radius: 15px;
+    margin: 5px;
+    cursor: pointer;
+    font-size: 20px;
+    background-color: aqua; 
+}
+
+/* button:hover {
+    background-color: #00471b;
+} */
+
+.boton-click:hover {
+    background-color: blue;
+} 
+
+.boton-click:active {
+    background-color: blueviolet;
+}
+
+.boton-reiniciar:hover {
+    background-color: brown;
+}
+
+.boton-reiniciar:active {
+    background-color: red;
+}
